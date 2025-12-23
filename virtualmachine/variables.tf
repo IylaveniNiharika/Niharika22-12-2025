@@ -13,4 +13,8 @@ variable "vm_size" {
 }
 variable "nic_id" {
   type = string
+
+}
+variable "public_key" {
+  type = string
 }
