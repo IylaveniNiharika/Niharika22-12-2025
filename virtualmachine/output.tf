@@ -1,3 +1,4 @@
 output "vm_details" {
-  value = azurerm_virtual_machine.example
+  value = azurerm_linux_virtual_machine.example
+
 }
