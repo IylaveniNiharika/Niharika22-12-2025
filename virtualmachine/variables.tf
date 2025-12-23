@@ -15,6 +15,7 @@ variable "nic_id" {
   type = string
 
 }
-variable "public_key" {
+variable "ssh_public_key" {
   type = string
 }
+
