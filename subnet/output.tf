@@ -1,3 +1,4 @@
-output "subent_details" {
+output "subnet_details" {
   value = azurerm_subnet.example
 }
+
