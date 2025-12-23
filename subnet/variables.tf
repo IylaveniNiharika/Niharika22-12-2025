@@ -7,9 +7,10 @@ variable "subnet_name" {
 variable "location" {
   type = string
 }
-variable "rg_name" {
+variable "resource_group" {
   type = string
 }
 variable "vnet_name" {
   type = string
+
 }
